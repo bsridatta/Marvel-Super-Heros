@@ -108,7 +108,6 @@ Black Queen
 Black Tarantula
 Black Tom
 Black Widow
-Black Widow/Natasha Romanoff
 Blackheart
 Blacklash
 Blackout
@@ -159,7 +158,6 @@ Cammi
 Cannonball
 Cap'n Oz
 Captain America
-Captain America/Steve Rogers
 Captain Britain
 Captain Cross
 Captain Flint
@@ -326,7 +324,6 @@ Ezekiel
 Ezekiel Stane
 Fabian Cortez
 Falcon
-Falcon/Sam Wilson
 Fallen One
 Famine
 Fantastic Four
@@ -423,7 +420,6 @@ Harry Osborn
 Hate-Monger
 Havok
 Hawkeye
-Hawkeye/Clint Barton
 Hedge Knight
 Hellcat
 Hellfire Club
@@ -448,7 +444,6 @@ Howard Saint
 Howard The Duck
 Hulk
 Hulk-dok
-Hulk/Bruce Banner
 Hulkling
 Human Cannonball
 Human Fly
@@ -480,7 +475,6 @@ Iron Cross Army
 Iron Fist
 Iron Lad
 Iron Man
-Iron Man/Tony Stark
 Iron Monger
 Iron Patriot
 Ironclad
@@ -684,7 +678,7 @@ Mesmero
 Metal Master
 Meteorite
 MI: 13
-Micro/Macro
+Micro
 Microbe
 Microchip
 Micromax
